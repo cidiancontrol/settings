@@ -1,0 +1,17 @@
+payload:
+#  - DOMAIN-KEYWORD,short,香港
+  - DOMAIN-KEYWORD,pay,DIRECT
+  - DOMAIN-SUFFIX,short.weixin.qq.com,香港
+  - DOMAIN-SUFFIX,dns.weixin.qq.com.cn,香港
+  - DOMAIN-SUFFIX,long.weixin.qq.com,香港
+#  - 'DOMAIN-SUFFIX,weixin.qq.com,香港'
+  - 'IP-CIDR,14.112.0.0/12,香港,no-resolve'
+  - 'IP-CIDR,43.129.192.0/18,香港,no-resolve'
+  - 'IP-CIDR,43.155.64.0/18,香港,no-resolve'
+  - 'IP-CIDR,61.151.128.0/17,香港,no-resolve'
+  - 'IP-CIDR,101.226.0.0/16,香港,no-resolve'
+  - 'IP-CIDR,101.227.0.0/16,香港,no-resolve'
+  - 'IP-CIDR,117.89.176.0/21,香港,no-resolve'
+  - 'IP-CIDR,119.144.0.0/14,香港,no-resolve'
+  - 'IP-CIDR,180.101.240.0/21,香港,no-resolve'
+  - 'IP-CIDR,183.0.0.0/10,香港,no-resolve'
