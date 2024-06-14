@@ -1,6 +1,7 @@
 payload:
   - short.weixin.qq.com
   - szextshort.weixin.qq.com
+  - szshort.weixin.qq.com
   - dns.weixin.qq.com.cn
   - long.weixin.qq.com
   - '14.112.0.0/12'
