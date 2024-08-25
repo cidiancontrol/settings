@@ -1,1 +1,5 @@
-1
+payload:
+#fcm
+  - DST-PORT,5228,DIRECT
+  - DOMAIN-KEYWORD,mtalk,DIRECT
+  - DOMAIN-KEYWORD,pay,DIRECT
