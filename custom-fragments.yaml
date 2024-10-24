@@ -1,0 +1,8 @@
+payload:
+#有些网站日本节点不行，所以都放这里，方便改节点
+  #搜书吧规则
+  - DOMAIN-KEYWORD,soushu
+  
+  - DOMAIN-KEYWORD,hanime
+  - DOMAIN-KEYWORD,jmcomic
+  - DOMAIN-KEYWORD,18comic
