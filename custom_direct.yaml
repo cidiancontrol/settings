@@ -1,5 +1,6 @@
 payload:
-#fcm
+  #fcm
   - DST-PORT,5228,DIRECT
   - DOMAIN-KEYWORD,mtalk,DIRECT
+  #用于国内某些支付域名
   - DOMAIN-KEYWORD,pay,DIRECT
