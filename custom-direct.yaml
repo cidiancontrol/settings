@@ -1,6 +1,8 @@
 payload:
   #fcm
-  - DST-PORT,5228,DIRECT
-  - DOMAIN-KEYWORD,mtalk,DIRECT
+  - DST-PORT,5228
+  - DOMAIN-KEYWORD,mtalk
   #用于国内某些支付域名
-  - DOMAIN-KEYWORD,pay,DIRECT
+  - DOMAIN-KEYWORD,pay
+  - DOMAIN,mybox.run.place
+  - DOMAIN,ran-inbox.run.place
