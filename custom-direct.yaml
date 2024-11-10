@@ -4,5 +4,5 @@ payload:
   - DOMAIN-KEYWORD,mtalk
   #用于国内某些支付域名
   - DOMAIN-KEYWORD,pay
- # - DOMAIN,mybox.run.place
-  #- DOMAIN,ran-inbox.run.place
+  - DOMAIN,mybox.run.place
+  - DOMAIN,ran-inbox.run.place
