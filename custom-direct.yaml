@@ -6,5 +6,5 @@ payload:
   - DOMAIN-KEYWORD,pay
   - DOMAIN,mybox.run.place
   - DOMAIN,ran-inbox.run.place
-  #- DOMAIN,my-nextcloud.run.place
+  - DOMAIN,my-nextcloud.run.place
 
