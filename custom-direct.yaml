@@ -7,4 +7,5 @@ payload:
   - DOMAIN,mybox.run.place
   - DOMAIN,ran-inbox.run.place
   - DOMAIN,my-nextcloud.run.place
+  - DOMAIN,www.godaddy.com
 #  - IP-CIDR,23.94.100.188/24
