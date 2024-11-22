@@ -11,4 +11,5 @@ payload:
 
 #这些日本节点也行,但是为了方便自定义不写入本体配置文件且强制走代理,也放这了
   - IP-CIDR,23.94.100.188/32
+  - PROCESS-NAME,com.hellotalk
   #- DOMAIN,bt.5679876.xyz
