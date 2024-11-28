@@ -1,12 +1,14 @@
 payload:
 #有些网站日本节点不行，所以都放这里，方便改节点
-  #搜书吧规则
+
   - DOMAIN-KEYWORD,soushu
   
-  - DOMAIN-KEYWORD,hanime
+  - DOMAIN-KEYWORD,hanime  
   - DOMAIN-KEYWORD,jmcomic
   - DOMAIN-KEYWORD,18comic
-  - DOMAIN,s.dg.b4yh4tyj46.com
+  - DOMAIN,www.agedm.org
+
+  - DOMAIN,s.dg.b4yh4tyj46.com    #搜书吧规则
   - DOMAIN,p6.36.nu6kiu4yuk5.com
   - DOMAIN,u0.k1.2ijtyj454.com
 #这些日本节点也行,但是为了方便自定义不写入本体配置文件且强制走代理,也放这了
