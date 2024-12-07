@@ -1,4 +1,5 @@
 payload:
+#下面是域名
   #fcm
   - DST-PORT,5228
   - DOMAIN-KEYWORD,mtalk
@@ -13,4 +14,10 @@ payload:
   - DOMAIN,nextcloud.5679876.xyz
   - DOMAIN,wallabag.5679876.xyz
   - DOMAIN,tg2fwq.5679876.xyz
+#下面是pc软件
+  - PROCESS-NAME,utorrent.exe
+  - PROCESS-NAME,Microsoft365 E5 Renew Plus.exe
+
+#下面是安卓软件,一般不写
+
 #  - IP-CIDR,23.94.100.188/24
