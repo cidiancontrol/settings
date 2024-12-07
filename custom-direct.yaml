@@ -17,7 +17,7 @@ payload:
 #下面是pc软件
   - PROCESS-NAME,utorrent.exe
   - PROCESS-NAME,Microsoft365 E5 Renew Plus.exe
-
+  - PROCESS-NAME,qbittorrent.exe
 #下面是安卓软件,一般不写
 
 #  - IP-CIDR,23.94.100.188/24
