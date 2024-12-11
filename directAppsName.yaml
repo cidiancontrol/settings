@@ -263,3 +263,4 @@ payload:
   - PROCESS-NAME,cn.gov.pbc.dcep
   - PROCESS-NAME,com.guozhigq.pilipala
   - PROCESS-NAME,com.bilibili.app.in
+  - PROCESS-NAME,ctrip.android.view
