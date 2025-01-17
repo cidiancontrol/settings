@@ -14,6 +14,9 @@ payload:
   - DOMAIN,nextcloud.5679876.xyz
   - DOMAIN,wallabag.5679876.xyz
   - DOMAIN,tg2fwq.5679876.xyz
+  - DOMAIN,rustdesk-hbbs.5679876.xyz
+  - DOMAIN,rustdesk-hbbr.5679876.xyz
+  - DOMAIN-SUFFIX,5679876.xyz
 #下面是pc软件
   - PROCESS-NAME,utorrent.exe
   - PROCESS-NAME,Microsoft365 E5 Renew Plus.exe
