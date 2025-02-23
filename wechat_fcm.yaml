@@ -1,10 +1,10 @@
 payload:
   - short.weixin.qq.com
-  - extshort.weixin.qq.com
+  #- extshort.weixin.qq.com
   #- szextshort.weixin.qq.com
-  #- szshort.weixin.qq.com
+  - szshort.weixin.qq.com
   #- szminorshort.weixin.qq.com
   - dns.weixin.qq.com.cn
-  - long.weixin.qq.com
+  #- long.weixin.qq.com
   - dns.weixin.qq.com
   #- szlong.weixin.qq.com
