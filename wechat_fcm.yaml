@@ -6,5 +6,6 @@ payload:
   #- szminorshort.weixin.qq.com
   - dns.weixin.qq.com.cn
   - long.weixin.qq.com
+  - long.weixin.qq.com.cn
   - dns.weixin.qq.com
   #- szlong.weixin.qq.com
