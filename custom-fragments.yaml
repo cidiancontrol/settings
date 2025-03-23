@@ -13,11 +13,7 @@ payload:
   - DOMAIN-KEYWORD,manwa
 
   - DOMAIN,s.dg.b4yh4tyj46.com    #搜书吧规则
-  - DOMAIN,p6.36.nu6kiu4yuk5.com
-  - DOMAIN,u0.k1.2ijtyj454.com
-  - DOMAIN,q1.v.agrth45tge.com
-  - DOMAIN,b6d.vb.2bhrg1e54.com
-  - DOMAIN,cc96.c3.c3sdefwewer.com
+  - DOMAIN,33ty.hk.sdvs4df4e5f4.com
 #这些日本节点也行,但是为了方便自定义不写入本体配置文件且强制走代理,也放这了
   #- IP-CIDR,23.94.100.188/32
   - PROCESS-NAME,com.hellotalk
