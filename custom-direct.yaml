@@ -3,6 +3,7 @@ payload:
   #fcm
   - DST-PORT,5228
   - DOMAIN-KEYWORD,mtalk
+  - DOMAIN-REGEX,"^(alt[1-8]-)?mtalk4?(-(staging|dev))?\\.google\\.com$"
   #用于国内某些支付域名
   # - DOMAIN-KEYWORD,pay
   
