@@ -10,6 +10,7 @@ payload:
   - DOMAIN,epub.love
   - DOMAIN,mobinovels.com
   - DOMAIN,hlib.cc
+  - DOMAIN,dns.google
   - DOMAIN-KEYWORD,manwa
   - DOMAIN-KEYWORD,alicesw
 
