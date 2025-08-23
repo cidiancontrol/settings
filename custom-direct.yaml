@@ -21,7 +21,6 @@ payload:
   - DOMAIN,rustdesk-hbbs.5679876.xyz
   - DOMAIN,rustdesk-hbbr.5679876.xyz
   - DOMAIN-SUFFIX,5679876.xyz
-  - DOMAIN-SUFFIX,dailymotion.com
 #下面是pc软件
   - PROCESS-NAME,utorrent.exe
   - PROCESS-NAME,Microsoft365 E5 Renew Plus.exe
