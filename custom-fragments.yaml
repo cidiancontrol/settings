@@ -11,6 +11,7 @@ payload:
   - DOMAIN,mobinovels.com
   - DOMAIN,hlib.cc
   - DOMAIN,dns.google
+  - DOMAIN,www.bing.com
   - DOMAIN-KEYWORD,manwa
   - DOMAIN-KEYWORD,alicesw
 
