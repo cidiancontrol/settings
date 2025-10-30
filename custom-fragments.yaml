@@ -22,4 +22,3 @@ payload:
   - DOMAIN-KEYWORD,cursor
   #- IP-CIDR,23.94.100.188/32
   - PROCESS-NAME,com.hellotalk
-  #- DOMAIN,bt.5679876.xyz
