@@ -8,6 +8,11 @@ payload:
   - IP-CIDR,2607:f130:0000:0146:0000:0000:20f8:caef,no-resolve
   - IP-CIDR,2607:f130:0000:0146:0000:0000:b5f2:39d4,no-resolve
   - IP-CIDR,2607:f130:0000:0146:0000:0000:6ab7:1104,no-resolve
+  #下面是DNS解析出的cf的ip,为了域名直连
+  - IP-CIDR,104.21.89.173/24,no-resolve
+  - IP-CIDR,172.67.162.177/24,no-resolve
+  - IP-CIDR,2606:4700:3032::6815:59ad,no-resolve
+  - IP-CIDR,2606:4700:3035::ac43:a2b1,no-resolve
 #下面是域名
   #fcm
   - DST-PORT,5228
