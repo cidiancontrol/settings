@@ -13,6 +13,8 @@ payload:
   - IP-CIDR,172.67.162.177/24,no-resolve
   - IP-CIDR,2606:4700:3032::6815:59ad,no-resolve
   - IP-CIDR,2606:4700:3035::ac43:a2b1,no-resolve
+  #这是夜煞云的导入链接的IP
+  - IP-CIDR,45.137.180.216,no-resolve
 #下面是域名
   #fcm
   - DST-PORT,5228
