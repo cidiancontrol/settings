@@ -43,3 +43,4 @@ payload:
   - PROCESS-NAME,kazumi.exe
 #下面是安卓软件,一般不写
   - PROCESS-NAME,com.carriez.flutter_hbb
+  - PROCESS-NAME,com.github.catfriend1.syncthingfork  # 安卓端syncthing,如果使用了发现服务器或中继服务器，可能会走代理，因此设置为直连
