@@ -22,6 +22,6 @@ payload:
   - DOMAIN,gdr.6d9g.b172gf1r5g.com
 #这些日本节点也行,但是为了方便自定义不写入本体配置文件且强制走代理,也放这了
   - DOMAIN-KEYWORD,cursor
-  - IP-CIDR,23.226.132.154/24,no-resolve
+  # - IP-CIDR,23.226.132.154/24,no-resolve
   #- IP-CIDR,23.94.100.188/32
   - PROCESS-NAME,com.hellotalk
