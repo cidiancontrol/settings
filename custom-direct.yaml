@@ -7,7 +7,7 @@ payload:
   - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
   - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
   - IP-CIDR,2607:f130:0000:0146:0000:0000:20f8:caef,no-resolve
-  - IP-CIDR,2607:f130:0000:0146:0000:0000:b5f2:39d4,no-resolve
+  # - IP-CIDR,2607:f130:0000:0146:0000:0000:b5f2:39d4,no-resolve
   - IP-CIDR,2607:f130:0000:0146:0000:0000:6ab7:1104,no-resolve
   #下面是DNS解析出的cf的ip,为了域名直连
   - IP-CIDR,104.21.89.173/24,no-resolve
