@@ -24,6 +24,7 @@ payload:
   #用于国内某些支付域名
   # - DOMAIN-KEYWORD,pay
   - DOMAIN,time.windows.com
+  - DOMAIN,kpsy.abrdns.com
   - DOMAIN,www.agedm.org
   - DOMAIN,list.5679876.xyz
   - DOMAIN,nextcloud.5679876.xyz
