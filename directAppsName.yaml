@@ -267,3 +267,15 @@ payload:
   - PROCESS-NAME,ctrip.android.view
   - PROCESS-NAME,com.deepseek.chat
   - PROCESS-NAME,com.tencent.tmgp.supercell.clashofclans
+  - PROCESS-NAME,com.tencent.hunyuan.app.chat
+  - PROCESS-NAME,com.qq.qcloud
+  - PROCESS-NAME,com.noname.shijiao
+  - PROCESS-NAME,cn.cj.pe
+  - PROCESS-NAME,cn.com.chsi.chsiapp
+  - PROCESS-NAME,com.tencent.mm
+  - PROCESS-NAME,com.mt.mtxx.mtxx
+  - PROCESS-NAME,com.xs.fm
+  - PROCESS-NAME,com.dragon.read
+  - PROCESS-NAME,com.popcap.pvz2cthdbk
+  - PROCESS-NAME,com.yhchat.app
+  - PROCESS-NAME,com.netease.uuremote
