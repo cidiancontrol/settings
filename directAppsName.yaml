@@ -276,6 +276,7 @@ payload:
   - PROCESS-NAME,com.mt.mtxx.mtxx
   - PROCESS-NAME,com.xs.fm
   - PROCESS-NAME,com.dragon.read
+  - PROCESS-NAME,com.popcap.pvz2cthd360
   - PROCESS-NAME,com.popcap.pvz2cthdbk
   - PROCESS-NAME,com.yhchat.app
   - PROCESS-NAME,com.netease.uuremote
