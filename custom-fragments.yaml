@@ -9,7 +9,7 @@ payload:
   - DOMAIN,www.agedm.org
   - DOMAIN,epub.love
   - DOMAIN,mobinovels.com
-  - DOMAIN,hlib.cc
+  - DOMAIN-WILDCARD,*.hlib.cc
   - DOMAIN,dns.google
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-KEYWORD,manwa
