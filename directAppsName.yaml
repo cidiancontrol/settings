@@ -280,3 +280,5 @@ payload:
   - PROCESS-NAME,com.popcap.pvz2cthdbk
   - PROCESS-NAME,com.yhchat.app
   - PROCESS-NAME,com.netease.uuremote
+  - PROCESS-NAME,com.popcap.pvz2cthd360
+  - PROCESS-NAME,com.ss.android.ugc.livelite
