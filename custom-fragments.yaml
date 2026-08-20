@@ -17,6 +17,7 @@ payload:
   - DOMAIN,www.uaa.com
 
   - DOMAIN-SUFFIX,giffgaff.com
+  - DOMAIN-SUFFIX,bangumi.tv
 
   - DOMAIN,s.dg.b4yh4tyj46.com    #搜书吧规则
   - DOMAIN,gdr.6d9g.b172gf1r5g.com
