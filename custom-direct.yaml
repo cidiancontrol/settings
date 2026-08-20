@@ -43,6 +43,7 @@ payload:
   - DOMAIN-SUFFIX,5679876.xyz
   - DOMAIN-SUFFIX,dmcdn.net
   - DOMAIN-SUFFIX,ruoanzhu.com
+  - DOMAIN-SUFFIX,bangumi.tv
 #下面是pc软件
   - PROCESS-NAME,utorrent.exe
   - PROCESS-NAME,Microsoft365 E5 Renew Plus.exe
