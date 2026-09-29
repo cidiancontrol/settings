@@ -28,7 +28,7 @@ payload:
   - DOMAIN,gantanhaokeji.top
   - DOMAIN,tuolangkj.top
   - DOMAIN,xj.iot889.com
-  - DOMAIN,kpsy.abrdns.com
+  # - DOMAIN,kpsy.abrdns.com
   - DOMAIN,www.agedm.org
   - DOMAIN,list.5679876.xyz
   - DOMAIN,nextcloud.5679876.xyz
